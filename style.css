@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+header{
+    padding: 46px 0;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: grey;
+
+}
+nav ul li a:hover{
+    font-weight: 800;
+}
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.a1{
+    padding: 50px 0;
+    display: flex;
+    align-items: center;
+    gap: 131px;
+    justify-content: space-between;
+}
+.b1{
+    width: 400px;
+}
+h1{
+font-size: 45px;
+font-weight: 700;
+line-height: 56px;
+}
+.b1 p{
+    columns: #7D7987;
+    font-size: 19px;
+    margin: 26px 0 35px;
+}
+.beach{
+font-size: 17px;
+font-weight: 700;
+line-height: 21.34px;
+color: #458FF6;
+padding: 18px 37px;
+background-color: white;
+border-radius: 50px;
+border: none;
+border: 1.5px solid #458FF6;
+transition: 2s;
+}
+.beach:hover{
+    background-color: #458FF6;
+    color: white;
+
+}
+.december{
+    padding: 50px 0;
+}
+.december h2{
+    text-align: center;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+}
+.v{
+    width: 850px;
+    color: #7D7987;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+text-align: center;
+margin: 20px auto;
+}
+.card0990{
+    width: 380px;
+    height: 380px;
+    background-color: #e7e7e7;
+    padding: 68px 40px;
+    border-radius: 20px;
+}
+.card0990 h3{
+        color: black;
+font-size: 16px;
+font-weight: 300;
+line-height: 28px;
+margin: 10px 0;
+}
+.card0990 p{
+    columns: #7d7d7d    ;
+}
+.card0990:hover{
+    background-color: aquamarine;
+    color: white    ;
+}
+.b{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 
+}
+.beach12{
+    width: 197px;
+    height: 49.18px;
+    border-radius: 55px;
+    border: 1.4px solid #458FF6;
+    background-color: white;
+    color: #458FF6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 500px;
+}
+
+.beach12:hover{
+    background: #458FF6;
+    color: white;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+}
+
+
+
+
+
